@@ -1,5 +1,5 @@
 ### La Llamada de la Luna
-***
+
 Localización: [[Moonlit Town ~house1]]
 Madrugada: Noche (5:00am)
 
@@ -41,7 +41,7 @@ Introducción del personaje [[Elia]]
 > [[Misión 1]] Reactivos de Elia
 > Espera a que Elia termine de preparar los reactivos para su poción.
 
-*El jugador puede explorar el pueblo e interactuar con sus NPC pero no puede salir de el. Cuando intente ir al bosque el siguiente mensaje se mostrará como un diálogo*
+*El jugador puede explorar el pueblo e interactuar con sus NPC pero no puede salir de el. Cuando intente ir al bosque el siguiente mensaje se mostrará como un diálogo:*
 - Debo esperar a Elia antes de salir
 (Este es un [[Mensaje para limitar la progresión del jugador temporalmente]])
 ***

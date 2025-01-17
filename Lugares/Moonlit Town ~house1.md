@@ -1,3 +1,5 @@
-![[Screenshot_20250113_152246_NotTiled.png]]
+---
+banner: "[[Moonlit Town ~house1.png]]"
+---
 Conexiones:
 Afuera: [[Moonlit Town]]

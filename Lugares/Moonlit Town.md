@@ -1,4 +1,9 @@
-![[Town1.png]]
+---
+banner: "[[Moonlit Town.png]]"
+tags:
+  - lugar
+---
+
 Conexiones:
 Al sur: [[Moonlit Path]]
 Cabaña 1, Inicio del jugador: [[Moonlit Town ~house1]]
