@@ -1,0 +1,1 @@
+Durante el juego se mostrarán algunos mensajes cuyo objetivo es limitar la progresión del jugador temporalmente. Estos mensajes se activan cuando el jugador intenta ir más allá de la zona en la que tiene sentido que esté su personaje.
