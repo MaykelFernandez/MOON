@@ -8,7 +8,7 @@ Madrugada: Noche (5:00am)
 [[Aiden]] (despierta)
 *Evento:*
 1. [[Aiden]] Valla pesadilla.
-*El jugador encontrará la poción que se encuentra en el cofre y saldrá afuera*
+*El jugador encontrará el objeto que se encuentra en el cofre y saldrá afuera*
 ***
 Localización: [[Moonlit Town]] (afuera)
 *El jugador podrá moverse unos metros (exactamente tres casillas) lejos de la casa inicial ([[Moonlit Town ~house1]]) luego de esto se activará un evento.*
